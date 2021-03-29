@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: /home.md/
   - title: "Research"
-    url: /research/
+    url: /research.md/
   - title: "CV"
     url: https://github.com/siddharthkishore/PaperRepository/blob/gh-pages/CV.pdf 
   - title: "Posts"
