@@ -9,4 +9,4 @@ I am a graduate student in the Department of Agricultural and Resource Economics
 
 My current research focuses on soil health, agricultural performances, and household well-being in developing countries. 
 
-Here is a link to my CV.
+Here is a link to my [CV]({{ site.url }}/assets/CV.pdf).
