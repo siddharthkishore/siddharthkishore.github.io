@@ -4,6 +4,8 @@ main:
     url: /home/
   - title: "Research"
     url: /research/
+  - title: "Resources"
+    url: /resources/  
   #- title: "CV"
   #  url: https://github.com/siddharthkishore/PaperRepository/blob/gh-pages/CV.pdf 
   #- title: "Posts"
