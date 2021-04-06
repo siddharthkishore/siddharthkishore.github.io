@@ -3,7 +3,7 @@ permalink: /home/
 title: "Home"
 ---
 
-Welcome!
+Hello world!
 
 I am a graduate student in the Department of Agricultural and Resource Economics at Colorado State University. 
 
