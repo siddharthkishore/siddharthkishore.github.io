@@ -2,7 +2,7 @@
 permalink: /resources/
 title: "Resources"
 ---
-Here are a few links to an external resource. In no particular order:
+Here are links to helpful resources:
 
 Keith Head's [reseach advice](http://blogs.ubc.ca/khead/research/research-advice)
 
