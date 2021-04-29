@@ -1,9 +1,9 @@
 ---
 permalink: /geodatarepo/
-title: "Geospatial Data Repository"
+title: "Data Repository"
 ---
 
-Here are a few publicly available geospatial dataset for academic research purposes. 
+Here are a few publicly available dataset for academic research purposes. 
 
 High resolution precipitation datset at the quai-global scale [CHIRPS] (https://data.chc.ucsb.edu/products/CHIRPS-2.0/)
 
