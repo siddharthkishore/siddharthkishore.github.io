@@ -6,7 +6,7 @@ main:
     url: /research/
   - title: "Resources"
     url: /resources/ 
-  - title: "Geospatial Data Repository"
+  - title: "Data Repository"
     url: /geodatarepo/   
   #- title: "CV"
   #  url: https://github.com/siddharthkishore/PaperRepository/blob/gh-pages/CV.pdf 
