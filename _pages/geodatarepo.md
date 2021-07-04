@@ -7,4 +7,4 @@ Here are a few publicly available dataset for academic research purposes.
 
 High resolution precipitation datset at the quai-global scale [CHIRPS](https://data.chc.ucsb.edu/products/CHIRPS-2.0/)
 
-Datasets for Development Economists [devecondata](http://devecondata.blogspot.com/)
+Datasets for Development Economists [devecondata](http://devecondata.blogspot.com/) and [BREAD](https://www.ibread.org/data-sets/)
