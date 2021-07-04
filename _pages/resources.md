@@ -14,4 +14,4 @@ Chris Blattman's [How to get a PhD and save the world](https://chrisblattman.com
 
 Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
 
-Dataset on the topics of Development Economics [BREAD](https://www.ibread.org/data-sets/)
+
