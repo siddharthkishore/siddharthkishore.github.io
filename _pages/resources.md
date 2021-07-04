@@ -13,3 +13,5 @@ Royce Murray's [Skillfull writing of an awful research paper](https://pubs.acs.o
 Chris Blattman's [How to get a PhD and save the world](https://chrisblattman.com/2007/12/12/how-to-get-a-phd-and-save-the-world/)
 
 Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
+
+Dataset on the topics of Development Economics [BREAD](https://www.ibread.org/data-sets/)
