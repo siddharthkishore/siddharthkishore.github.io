@@ -7,7 +7,7 @@ Welcome to my website!
 
 I am a graduate student in the Department of Agricultural and Resource Economics at Colorado State University. 
 
-My current research focuses on soil health, agricultural performances, and household well-being in developing countries. The empirical section relies extensively on secondary data available publicly and GIS techniques.
+My current research focuses on soil health, agricultural performances, and household well-being in developing countries. The empirical analysis in my research relies extensively on secondary data and GIS techniques.
 
 Contact:
 siddharth.kishore@colostate.edu
