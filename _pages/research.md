@@ -10,7 +10,7 @@ Using Demographic and Health Survey round fourth for India in 2015-16, I investi
 
 You can [get the presentation PDF]({{ site.url }}/assets/ENRE_seminar_IDHS (1).pdf) directly.
 
-## 
+## Impact of weather on wages and employment in rural India, 2004-11
 
 Using a nationally representative data this paper studies the labor impacts of rainfall variability in rural India from 2004 to 2011. We explore a non-linear relationship between weather variables and labor demographics using a novel data set that integrates spatial distribution of agro-climatic variables within a district with the national employment and unemployment situations. We provide a critical examination of the relationship between rainfall variability and employment. The result suggests that the labor in rural India reallocates to non-agricultural sectors, particularly the construction sector for its relatively low switching cost. The findings of this paper contribute to the climate and development literature.
 
