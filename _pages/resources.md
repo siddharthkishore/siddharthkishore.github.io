@@ -14,4 +14,6 @@ Chris Blattman's [How to get a PhD and save the world](https://chrisblattman.com
 
 Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
 
+Difference-in-Difference [(DiD)](https://asjadnaqvi.github.io/DiD/)
+
 
