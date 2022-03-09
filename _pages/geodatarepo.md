@@ -11,6 +11,6 @@ Datasets for Development Economists [devecondata](http://devecondata.blogspot.co
 
 FAO Global Agro-Ecological Zones [GAEZ](https://gaez.fao.org/)
 
-[Geospatial Data Repository](https://leahbevis.com/geospatial-data-repository/)
+Leah Bevis's [Geospatial Data Repository](https://leahbevis.com/geospatial-data-repository/)
 
 [Google Dataset Search](https://datasetsearch.research.google.com/)
