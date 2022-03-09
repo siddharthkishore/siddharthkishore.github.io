@@ -12,8 +12,10 @@ Royce Murray's [Skillfull writing of an awful research paper](https://pubs.acs.o
 
 Chris Blattman's [How to get a PhD and save the world](https://chrisblattman.com/2007/12/12/how-to-get-a-phd-and-save-the-world/)
 
-Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
+Asjad Naqvi's [Difference-in-Difference ](https://asjadnaqvi.github.io/DiD/)
 
-Difference-in-Difference [(DiD)](https://asjadnaqvi.github.io/DiD/)
+Christine Cai's [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
+
+Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
 
 
