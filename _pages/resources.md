@@ -16,6 +16,8 @@ Asjad Naqvi's [Difference-in-Difference ](https://asjadnaqvi.github.io/DiD/)
 
 Christine Cai's [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 
+Ryan B Edward's collection of [tips and resources](http://www.ryanbedwards.com/resources)
+
 Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
 
 
