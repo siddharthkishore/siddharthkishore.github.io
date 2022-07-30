@@ -5,7 +5,7 @@ title: "Home"
 
 Welcome to my website!
 
-I am a graduate student in the Department of Agricultural and Resource Economics at Colorado State University.
+I am a PhD candidate in the Department of Agricultural and Resource Economics at Colorado State University.
 
 My research interests are in development, health and agricultural economics.
 
