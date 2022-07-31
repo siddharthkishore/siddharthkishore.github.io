@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
-author_profile: true
-classes: wide
+title: "Home"
 ---
 
 Welcome to my website!
