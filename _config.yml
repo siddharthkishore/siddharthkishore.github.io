@@ -12,8 +12,12 @@ locale                   : "en"
 title                    : "Siddharth Kishore"
 title_separator          : "-"
 name                     : "Siddharth Kishore"
+email                    : siddharth.kishore@colostate.edu
 description              : ""
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://siddharthkishore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+twitter_username:siddharthkish
+search: true
+
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -108,7 +112,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :"@siddharthkish"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -117,7 +121,6 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
 exclude:
   - "*.sublime-project"
