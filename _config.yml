@@ -15,7 +15,6 @@ name                     : "Siddharth Kishore"
 email                    : siddharth.kishore@colostate.edu
 description              : ""
 url                      : "https://siddharthkishore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-twitter_username:siddharthkish
 search: true
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -65,7 +64,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : siddharthkish
 facebook:
   username               :
   app_id                 :
