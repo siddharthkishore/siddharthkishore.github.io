@@ -18,6 +18,9 @@ Christine Cai's [Literature on Recent Advances in Applied Micro Methods](https:/
 
 Ryan B Edward's collection of [tips and resources](http://www.ryanbedwards.com/resources)
 
+Mental Health: [How to Mentally Prepare for the Job Market](https://sites.google.com/view/ejm-mentalhealth/home)
+
 Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
+
 
 
