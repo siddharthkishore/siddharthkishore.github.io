@@ -1,8 +1,6 @@
 ---
-permalink: /Home/
-title: "Welcome"
-author_profile: true
-classes: wide
+permalink: /home/
+title: "Home"
 ---
 
 I am a PhD candidate in the Department of Agricultural and Resource Economics at Colorado State University.
