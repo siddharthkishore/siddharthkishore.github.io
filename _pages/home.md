@@ -1,11 +1,9 @@
 ---
 permalink: /
-title: "Home"
+title: "Welcome"
 author_profile: true
 classes: wide
 ---
-
-Welcome to my website!
 
 I am a PhD candidate in the Department of Agricultural and Resource Economics at Colorado State University.
 
