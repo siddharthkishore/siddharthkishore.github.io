@@ -19,3 +19,5 @@ You can [get the presentation PDF]({{ site.url }}/assets/WorkfareFamily.pdf) dir
 ## Early-life exposure to drought on later-life disability
 
 This paper causally estimate the impact of early-life exposure to drought on disability rates in later-life in a developing country context. We exploit the geographic and cohort variation in exposure on the prevalence of disability in later-life. We show that this early-life exposure significantly increased the prevalence of locomotor disability in adulthood. The impact is larger for males and members of rural households. The nutritional status of rural households is weather dependent and is a likely mechanism of impact. A better understanding of the onset of disability of an individual opens a wide window for policy intervention.
+
+
