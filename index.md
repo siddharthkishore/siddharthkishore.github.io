@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Home/
 title: "Welcome"
 author_profile: true
 classes: wide
