@@ -10,7 +10,7 @@ This paper explores the impact of monsoon rainfall shocks on child health outcom
 
 You can [get the draft of the manuscript PDF]({{ site.url }}/assets/RainfallSoilChildHealth.pdf) directly.
 
-## Workfare programs and reproductive choice: The case of MGNREGA
+## Workfare programs and family planning: The case of MGNREGA
 
 Understanding how providing work opportunities to women impact their use of reproductive choice has important implications for population and economic development of a nation. This paper examines the impact of employment guarantee scheme on women reproductive choice using a nationally representative dataset. I employ  difference-in-differences technique with inverse probability of treatment weighting to estimate the causal effects. The result suggests an increase of 3 percentage points in family planning methods with the introduction of employment guarantee scheme. Specifically, the use of modern methods of family planning have increased. Intra-household bargaining as well as additional household income is a likely mechanism of impact.
 
