@@ -11,4 +11,4 @@ The first two chapters of my dissertation explores the impacts of weather fluctu
 
 I look forward to connecting with you. Please contact me at siddharth.kishore@colostate.edu
 
-Here is a link to my [CV]({{ site.url }}/assets/siddharth_kishore_cv.pdf).
+Here is a link to my [CV]({{ site.url }}/assets/siddharthkishore_CV.pdf).
