@@ -3,7 +3,7 @@ permalink: /geodatarepo/
 title: "Data Repository"
 ---
 
-Here are a few publicly available dataset for academic research purposes: 
+Here are a few publicly available dataset for academic purposes: 
 
 High resolution precipitation datset at the quai-global scale [CHIRPS](https://data.chc.ucsb.edu/products/CHIRPS-2.0/)
 
