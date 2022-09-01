@@ -2,6 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+Department of Agricultural and Resource Economics at Colorado State University
 ## Undergraduate Teaching experience
 Principles of Microeconomics (Instructor)
 
