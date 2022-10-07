@@ -6,9 +6,9 @@ I am currently working on these projects as a PhD student in the Department of A
 
 ## Workfare programs and family planning: The case of MGNREGA (Job Market Paper)
 
-In my job market paper, I investigate whether providing work opportunities to women impacts their use of family planning methods. Using survey data from rural India, I employ a difference-in-differences strategy and inverse probability of treatment weighting techniques to estimate the causal effects. The results suggest an increase of 2 percentage points in the use of any method of family planning among currently married women with the introduction of an employment guarantee scheme. The use of modern contraceptive methods increased with significant heterogeneity across poor and non-poor households. The findings help inform our understanding of economic development, labor markets, contraceptive use, and fertility.
+In my job market paper, I investigate whether providing work opportunities to women impacts their use of family planning methods. Using survey data from rural India, I employ a difference-in-differences strategy and inverse probability of treatment weighting techniques to estimate the causal effects. The results suggest an increase of 2 percentage points (a 3% increase) in the use of modern method of family planning among currently married women with the introduction of an employment guarantee scheme. The use of modern contraceptive methods increased with significant heterogeneity across poor and non-poor households. The findings help inform our understanding of economic development, labor markets, contraceptive use, and fertility.
 
-You can [get the presentation PDF]({{ site.url }}/assets/WorkfareFamily.pdf) directly.
+You can [get the draft of the manuscript PDF]({{ site.url }}/assets/WorkfareJMP_SiddharthKishore.pdf) directly.
 
 ## Rainfall shocks, soil health, and child health outcomes
 
