@@ -12,7 +12,7 @@ You can [get the draft of the manuscript PDF]({{ site.url }}/assets/WorkfareJMP_
 
 ## Rainfall shocks, soil health, and child health outcomes
 
-This paper explores the impact of monsoon rainfall shocks on child health outcomes in rural India at varying levels of soil organic carbon. I combine high resolution spatial data on soil organic carbon content and weather with the Demographic and Health Survey (DHS) for India (2015-2016) to estimate the linkage between monsoon rainfall shock, soil health, and child health. Weather variables and soil determine crop productivity and thus affect human health through food access in low and middle income countries. I contribute to the literature by demonstrating direct and indirect impact of soil health on childhood outcome of wasting. Using a coarsened exact matching method, I estimate that a move from low to high soil health can result in a 26 percent reduction in child wasting. 
+This paper estimates the moderating effect of soil organic carbon content (a measure of soil health) on child health in response to rainfall shocks in a low-income country setting. Focusing on rural India, I leverage the Demographic and Health Survey data set and high-resolution spatial data on soil organic carbon content and meteorological variables. Using a coarsened exact matching method, I show that a modest change in soil health can provide resistance to wasting in children during periods of low rainfall.
 
 You can [get the draft of the manuscript PDF]({{ site.url }}/assets/RainfallSoilChildHealth.pdf) directly.
 
