@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /donotusehome/
 title: "Home"
 ---
 
