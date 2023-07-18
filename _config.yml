@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Siddharth Kishore"
 title_separator          : "-"
 name                     : "Siddharth Kishore"
-email                    : siddharth.kishore@colostate.edu
+email                    : siddharthkishore@hotmail.com
 description              : ""
 url                      : "https://siddharthkishore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 search: true
@@ -88,8 +88,8 @@ analytics:
 author:
   name             : "Siddharth Kishore"
   avatar           : "/assets/images/siddharthphoto04_11_2022.jpg"
-  bio              : "PhD candidate at Colorado State University, Pronouns: he/him"
-  location         : "Fort Collins, Colorado USA"
+  bio              : "Postdoc scholar at University of California Riverside, Pronouns: he/him"
+  location         : "Riverside, California USA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
