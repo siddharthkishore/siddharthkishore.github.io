@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /donotusehome/
+permalink: /home/
 title: "Home"
 ---
 
