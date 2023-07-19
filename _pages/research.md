@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 ---
-I am currently working on these projects as a PhD student in the Department of Agricultural and Resource Economics at Colorado State University.
+## Working Papers
 
 ## Workfare programs and family planning: The case of MGNREGA (Job Market Paper)
 
