@@ -2,19 +2,15 @@
 permalink: /research/
 title: "Research"
 ---
-## Working Papers
+## Published papers
+**"Rainfall shocks, soil health, and child health outcomes"** *Population and Environment* (2023). [paper]({{ site.url }}/assets/ChildSoilHealthforPub_latest.pdf)
+## Working papers
 
 ## Workfare programs and family planning: The case of MGNREGA (Job Market Paper)
 
 In my job market paper, I investigate whether providing work opportunities to women impacts their use of family planning methods. Using survey data from rural India, I employ a difference-in-differences strategy and inverse probability of treatment weighting techniques to estimate the causal effects. The results suggest an increase of 2 percentage points (a 3% increase) in the use of modern method of family planning among currently married women with the introduction of an employment guarantee scheme. The use of modern contraceptive methods increased with significant heterogeneity across poor and non-poor households. The findings help inform our understanding of economic development, labor markets, contraceptive use, and fertility.
 
 You can [get the draft of the manuscript PDF]({{ site.url }}/assets/WorkfareJMP_SiddharthKishore.pdf) directly.
-
-## Rainfall shocks, soil health, and child health outcomes
-
-This paper estimates the moderating effect of soil organic carbon content (a measure of soil health) on child health in response to rainfall shocks in a low-income country setting. Focusing on rural India, I leverage the Demographic and Health Survey data set and high-resolution spatial data on soil organic carbon content and meteorological variables. Using a coarsened exact matching method, I show that a modest change in soil health can provide resistance to wasting in children during periods of low rainfall.
-
-You can [get the draft of the manuscript PDF]({{ site.url }}/assets/RainfallSoilChildHealth.pdf) directly.
 
 ## Early-life exposure to drought on later-life disability
 
