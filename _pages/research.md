@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 ---
-## Published papers
+## Published paper
 **"Rainfall shocks, soil health, and child health outcomes"** *Population and Environment* (2023). [paper]({{ site.url }}/assets/ChildSoilHealthforPub_latest.pdf)
 ## Working papers
 
