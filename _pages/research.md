@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 ## Published paper
-**"Rainfall shocks, soil health, and child health outcomes"** *Population and Environment* (2023). [paper]({{ site.url }}/assets/ChildSoilHealthforPub_latest.pdf)
+**"Rainfall shocks, soil health, and child health outcomes"** *Population and Environment* (2023). [Paper]({{ site.url }}/assets/ChildSoilHealthforPub_latest.pdf)
 ## Working papers
 
 **Public Sector Job Guarantees and Family Planning Choices in Rural India** (with Dale T. Manning)
