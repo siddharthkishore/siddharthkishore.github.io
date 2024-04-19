@@ -12,7 +12,7 @@ title: "Research"
 **Public Sector Job Guarantees and Family Planning Choices in Rural India** (with Dale T. Manning) [Working Paper]({{ site.url }}/assets/WorkfareReproductiveHealth.pdf)
     <br>Selected for presentation: 2024 Pacific Conference for Development Economics (PacDev)
 ## Work in Progress
-**Air Pollution, Rainfall Variability, and Intimate Partner Violence in India**
+**Air Pollution, Rainfall Variability, and Intimate Partner Violence in India** [Slides]({{ site.url }}/assets/Drought_Dust_IPV_Talk.pdf)
 
 
 
