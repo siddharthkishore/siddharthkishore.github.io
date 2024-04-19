@@ -14,8 +14,6 @@ title: "Research"
 
 **Drought, Dust, and Domestic Violence: Evidence from India**
 
-## Resting paper
-**Early-life exposure to drought on later-life disability**
 
 
 
