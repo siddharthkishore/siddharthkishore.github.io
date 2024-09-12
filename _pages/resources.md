@@ -4,6 +4,8 @@ title: "Resources"
 ---
 Here are links to helpful resources:
 
+Fernando M. Aragon's [research lab](https://sites.google.com/view/fernandoaragon/research-lab)
+
 Keith Head's [reseach advice](http://blogs.ubc.ca/khead/research/research-advice)
 
 Marc Bellemare's [How to write applied papers in Economics](http://marcfbellemare.com/wordpress/wp-content/uploads/2020/09/BellemareHowToPaperSeptember2020.pdf)
@@ -20,7 +22,7 @@ Ryan B Edward's collection of [tips and resources](http://www.ryanbedwards.com/r
 
 Mental Health: [How to Mentally Prepare for the Job Market](https://sites.google.com/view/ejm-mentalhealth/home)
 
-Podcast: [Probable Causation](https://www.probablecausation.com/) hosted by Jennifer Doleac
+
 
 
 
