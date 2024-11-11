@@ -1,5 +1,5 @@
 ---
-permalink: /resources/
+permalink: /resources_old/
 title: "Resources"
 ---
 Here are links to helpful resources:
