@@ -10,7 +10,7 @@ title: "Research"
     
 **Parcel-Level Agricultural Land use and Climate Change** (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Working Paper]({{ site.url }}/assets/AgLandUse_ClimChange_UCR_SPP_WP.pdf)
 
-**Climate Change and Dust Pollution Impact on Farmland Market: Evidence from California’s Central Valley** (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Working Paper]({{ site.url }}/assets/DustDroughtFarmland_wp.pdf)
+**Climate Change and Dust Pollution Impact on Farmland Market** (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Working Paper]({{ site.url }}/assets/DustDroughtFarmland_wp.pdf)
    <br> Presented: 2023 OSWEET, UC Riverside, UC San Diego, 2024 AAEA 
 
 **Air Pollution and Intimate Partner Violence in India** (with Magda Tsaneva and Uttara Balakrishnan) [Working Paper]({{ site.url }}/assets/Pollution_IPV_WorkingPaper.pdf)
