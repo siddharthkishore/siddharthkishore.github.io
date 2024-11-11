@@ -1,5 +1,5 @@
 ---
-permalink: /geodatarepo/
+permalink: /geodatarepo_old/
 title: "Data Repository"
 ---
 
