@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ced# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -13,7 +13,7 @@ title                    : "Siddharth Kishore"
 title_separator          : "-"
 name                     : &name "Siddharth Kishore"
 email                    : siddharthkishore@hotmail.com
-description              : &description "Postdoctoral scholar at University of California Riverside"
+description              : &description "Postdoctoral scholar at University of California Merced"
 url                      : "https://siddharthkishore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 search: true
 
@@ -88,8 +88,8 @@ analytics:
 author:
   name             : "Siddharth Kishore"
   avatar           : "/assets/images/siddharthphoto04_11_2022.jpg"
-  bio              : "Postdoctoral Scholar at University of California Riverside, Pronouns: he/him"
-  location         : "Riverside, California USA"
+  bio              : "Postdoctoral Scholar at University of California Merced, Pronouns: he/him"
+  location         : "Merced, California USA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
