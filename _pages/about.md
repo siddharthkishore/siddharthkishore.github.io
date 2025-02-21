@@ -5,12 +5,12 @@ author_profile: true
 classes: wide
 ---
 
-I am a Postdoctoral Scholar in the [School of Public Policy](https://spp.ucr.edu/) at the University of California, Riverside. At UC Riverside, I am advised by [Ariel Dinar](https://waterdialogue.ucr.edu/ariel-dinar-climate-change) and [Mehdi Nemati](https://profiles.ucr.edu/app/home/profile/mehdin) as part of the impact of climate change on California's agricultural research [lab](https://waterdialogue.ucr.edu/).
+I am a postdoctoral scholar at the [Valley Institute for Sustainability, Technology, and Agriculture](https://vista.ucmerced.edu/) at the University of California Merced. I am part of the research team at the [Water Systems Management Lab](https://wsm.ucmerced.edu/), led by Prof. Josue Medellin-Azuara, and working on California's Fifth Climate Change Assessment Report.  
+
+Before this, I was a postdoctoral scholar at the [School of Public Policy](https://waterdialogue.ucr.edu/ariel-dinar-climate-change) at University of California Riverside and worked under the supervision of Ariel Dinar and Mehdi Nemati.
 
 I received my Ph.D. in agricultural and resource economics from [Colorado State University](https://agsci.colostate.edu/dare/) in May 2023.
 
-I study empirical microeconomics, with particular focus on climate shocks and the impact of adaptation policies on agriculture and human health. I am currently studying land-use and climate change in the U.S.
-
-<b>Email:</b> siddhark@ucr.edu
+<b>Email:</b> siddharthkishore@hotmail.com
 
 Here is a link to my [CV]({{ site.url }}/assets/siddharthkishore_CV.pdf).
