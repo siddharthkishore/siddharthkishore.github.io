@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Siddharth Kishore"
 title_separator          : "-"
 name                     : &name "Siddharth Kishore"
-email                    : siddharthkishore@hotmail.com
+email                    : "siddharthkishore@hotmail.com"
 description              : &description "Postdoctoral scholar at University of California Merced"
 url                      : "https://siddharthkishore.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 search: true
