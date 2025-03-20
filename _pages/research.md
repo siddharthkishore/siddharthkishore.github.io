@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 ## Published Paper
-**"Climate-induced changes in agricultural land use: parcel-level evidence from California's Central Valley"** *Climatic Change* (2025). (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Paper]({{ site.url }}/assets/AgLandUse_ClimChange.pdf)
+**"Climate-induced changes in agricultural land use: parcel-level evidence from California's Central Valley"** *Climatic Change* (2025). [Paper]({{ site.url }}/assets/AgLandUse_ClimChange.pdf) (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) 
 
 **"Rainfall shocks, soil health, and child health outcomes"** *Population and Environment* (2023). [Paper]({{ site.url }}/assets/ChildSoilHealthforPub_latest.pdf)
 ## Working Papers
