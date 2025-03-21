@@ -7,7 +7,7 @@ title: "Research"
 
 **"Rainfall shocks, soil health, and child health outcomes"** *Population and Environment* (2023). [Paper]({{ site.url }}/assets/ChildSoilHealthforPub_latest.pdf)
 ## Working Papers
-**Air Pollution and Intimate Partner Violence in India** (with Magda Tsaneva and Uttara Balakrishnan) [Working Paper]({{ site.url }}/assets/Pollution_IPV_WorkingPaper.pdf)
+**Air Pollution and Intimate Partner Violence in India** (with Magda Tsaneva and Uttara Balakrishnan) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5099829)
 
 **Climate Change and Dust Pollution Impact on Farmland Market** (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Working Paper]({{ site.url }}/assets/DustDroughtFarmland_wp.pdf)
 
