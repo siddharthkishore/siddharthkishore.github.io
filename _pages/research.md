@@ -11,7 +11,7 @@ title: "Research"
 
 * Public Sector Job Guarantees and Family Planning Choices in Rural India (with Dale T. Manning) [Working Paper]({{ site.url }}/assets/WorkfareReproductiveHealth.pdf)
   
-**Works in Progress**
+**Selected Works in Progress**
 * Extreme Temperatures, Crop Diversity, and Pesticide Use Behavior (with Josué Medellín-Azuara)
 
 **Publications**
