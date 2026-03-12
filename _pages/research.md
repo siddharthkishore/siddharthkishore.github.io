@@ -3,16 +3,20 @@ permalink: /research/
 title: "Research"
 ---
 **Working Papers**
-* Effect of Air Pollution on Reproductive Healthcare in India (with Magda Tsaneva) [Working Paper]({{ site.url }}/assets/Air Pollution and Reproductive health.pdf)
+* Extreme Temperatures, Crop Diversity, and Pesticide Use Behavior (with Josué Medellín-Azuara) [Working Paper]({{ site.url }}/assets/Temp_PesticideUse.pdf)
+  
+* Climate Change and Dust Pollution Impact on Farmland Market (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Working Paper]({{ site.url }}/assets/DustDroughtFarmland_wp.pdf)
+  
+* Public Sector Job Guarantees and Family Planning Choices in Rural India (with Dale T. Manning) [Working Paper]({{ site.url }}/assets/WorkfareReproductiveHealth.pdf)
+
+* Air Pollution and Maternal healthcare-Seeking Behavior in India (with Magda Tsaneva) [Working Paper]({{ site.url }}/assets/AirPollutionMaternalHealthcare.pdf)
+ 
+* Air Pollution, Fertility, and Reproductive Healthcare Use in India (with Magda Tsaneva) [Working Paper]({{ site.url }}/assets/Air Pollution and Reproductive health.pdf)
    
 * Air Pollution and Intimate Partner Violence in India (with Magda Tsaneva and Uttara Balakrishnan) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5099829)
-
-* Climate Change and Dust Pollution Impact on Farmland Market (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Working Paper]({{ site.url }}/assets/DustDroughtFarmland_wp.pdf)
-
-* Public Sector Job Guarantees and Family Planning Choices in Rural India (with Dale T. Manning) [Working Paper]({{ site.url }}/assets/WorkfareReproductiveHealth.pdf)
   
 **Selected Works in Progress**
-* Extreme Temperatures, Crop Diversity, and Pesticide Use Behavior (with Josué Medellín-Azuara)
+* Drought Exposure, Switch between Irrigation Technologies, and Shift in Cropping Patterns
 
 **Publications**
 * Waring, E., Dahlke, H.E., Abatzoglou, J.T., Medellín-Azuara, J., Yost, M.A., Bali, K.M., Naughton, C.C., Putnam, D.H., Sabie, R., Kishore, S., Santos, N.R., Viers, J.H. (2025). ``Reimagining alfalfa as a flexible crop for water security in the Southwestern USA." *Science of The Total Environment*. [Article]({{ site.url }}/assets/Waring et al STOTEN 2025.pdf)
