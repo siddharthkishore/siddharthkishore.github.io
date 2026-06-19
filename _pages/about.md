@@ -9,4 +9,4 @@ I am a postdoctoral scholar at the [Valley Institute for Sustainability, Technol
 
 <b>Email:</b> siddharthkishore@hotmail.com
 
-Here is a link to my [CV]({{ site.url }}/assets/siddharthkishore_CV.pdf).
+Here is a link to my [CV]({{ site.url }}/assets/Kishore_CV.pdf).
