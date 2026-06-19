@@ -5,8 +5,8 @@ title: "Research"
 **Working Papers**
 * Extreme Temperatures, Crop Diversity, and Pesticide Use Behavior (with Josué Medellín-Azuara) [Working Paper]({{ site.url }}/assets/Temp_PesticideUse.pdf)
 
-* Responsiveness of Crop Yield and Harvested Acres to Warmer Temperatures (with Josué Medellín-Azuara)[Working Paper]({{ site.url }}/assets/CropProd_Temp.pdf)
-* Drought Severity, Crop Diversity, and Irrigation Technology (with Josué Medellín-Azuara)[Working Paper]({{ site.url }}/assets/DroughtSeverity_Yakima.pdf)
+* Responsiveness of Crop Yield and Harvested Acres to Warmer Temperatures (with Josué Medellín-Azuara) [Working Paper]({{ site.url }}/assets/CropProd_Temp.pdf)
+* Drought Severity, Crop Diversity, and Irrigation Technology (with Josué Medellín-Azuara) [Working Paper]({{ site.url }}/assets/DroughtSeverity_Yakima.pdf)
   
 * Climate Change and Dust Pollution Impact on Farmland Market (with Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott MacKenzie, and Matthew Shugart) [Working Paper]({{ site.url }}/assets/DustDroughtFarmland_wp.pdf)
 
